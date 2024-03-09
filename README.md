@@ -1,7 +1,5 @@
 <div> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=George-Polya&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
 ## 🍀 Intro
 George Polya의 문제 해결 방법론을 수학뿐만 아니라 알고리즘에서도 추구합니다.
 1. 문제의 정확한 이해
