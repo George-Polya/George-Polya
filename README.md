@@ -21,7 +21,7 @@ George Polya의 문제 해결 방법론을 수학뿐만 아니라 알고리즘�
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-![AWS SAA](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS-SAA%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ![Kubernetes CKA](https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
