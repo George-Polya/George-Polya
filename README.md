@@ -22,7 +22,6 @@ George Polya의 문제 해결 방법론을 수학뿐만 아니라 알고리즘�
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ![AWS SAA](https://img.shields.io/badge/AWS-SAA-%23FF9900?style=for-the-badge&logo=aws&logoColor=white)
-
 ![Kubernetes CKA](https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
